@@ -1,2 +1,2 @@
 hello
-lab 1
+program 1
